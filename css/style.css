@@ -1,7 +1,7 @@
 body {
   padding: 0px;
   margin: 0px;
-  font-family: "Helvetica", sans-serif;
+  font-family: "Hiragino Mincho ProN", "Yu Mincho", "YuMincho", serif;
   overflow: hidden;
 }
 
@@ -98,9 +98,12 @@ body {
 .chapter-header {
   display: block;
   text-align: center;
-  font-size: 1.2em;
+  font-size: 2em;
   padding: 0 5px;
+  font-weight: bold;
 }
+
+p.chapter-header {}
 
 .source {
   font-size: 9pt;
@@ -114,7 +117,8 @@ a.source:visited {
 .description {
   margin: 20px;
   text-align: left;
-  font-size: 11pt;
+  font-size: 14pt;
+  line-height: 1.75em;
   padding: 20px;
 }
 
