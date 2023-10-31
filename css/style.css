@@ -99,11 +99,9 @@ body {
   display: block;
   text-align: center;
   font-size: 2em;
-  padding: 0 5px;
   font-weight: bold;
+  padding: 0 5px;
 }
-
-p.chapter-header {}
 
 .source {
   font-size: 9pt;
@@ -164,13 +162,13 @@ a.source:visited {
 #header {
   padding: 5px 0;
   text-align: center;
-  color: #333;
+  /* color: #333; */
 }
 
 /* Storymap title & subtitle */
 h1 {
   margin: 0;
-  font-size: 1.5em;
+  font-size: 2.5em;
 }
 
 h2 {
