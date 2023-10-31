@@ -67,7 +67,7 @@ body {
 
 .chapter-container img {
   height: auto;
-  width: auto;
+  width: 500px; /* 今回令和山景のみ */
   max-height: 100%;
   max-width: 100%;
   margin-left: auto;
